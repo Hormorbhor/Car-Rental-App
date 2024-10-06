@@ -14,9 +14,6 @@ The Car Rental App is built using Power Apps, SharePoint, and Power Automate to 
 - **Power Apps**: For building the front-end of the app, allowing users to browse available vehicles, submit rental requests, and track rental status.
 - **SharePoint**: Acts as the backend to store customer, vehicle, and rental information in a secure and easily accessible manner.
 - **Power Automate**: Automates the approval flow, ensuring that all rental requests are processed in a timely and efficient manner.
-
-Certainly! Here’s a more detailed explanation of how the **Car Rental App** works, including how it integrates with Power Automate and SharePoint. I’ll also add a placeholder for the video preview link where you can showcase the app's functionalities.
-
 ---
 
 ### How the Car Rental App Works
